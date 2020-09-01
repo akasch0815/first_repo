@@ -12,4 +12,4 @@ links:
 Test für Bilder:
 [Hundebild :D] (https://www.zooplus.de/magazin/wp-content/uploads/2017/10/welpen-eingew%C3%B6hnen-1024x661.jpeg)
 
-![Hundebild direkt] (https://www.zooplus.de/magazin/wp-content/uploads/2017/10/welpen-eingew%C3%B6hnen-1024x661.jpeg)
+![Hundebild direkt](https://www.zooplus.de/magazin/wp-content/uploads/2017/10/welpen-eingew%C3%B6hnen-1024x661.jpeg)
